@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">22ecc241b6a9272f1ea2d02c7b7b0f9f</string>
+    <string name="popular_movie">Popular movies</string>
+    <string name="top_rated_movie">Top rated</string>
+    <string name="title_activity_detail">Details</string>
+</resources>

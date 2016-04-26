@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_6089590749ae460d55fe196bec00ffad9e94e899/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9145c13e94813ffaf332bc6f65cb1f32937e8a3b">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_860f882613b7e6b5e55e8e3da1e9324cd11b8b67/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_b6e949996329a30b5ad8eb04335ffa5254f7bddf/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_2abad1e1ded099ca8bca28979c223abb25674c08/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f001663bf23aeb9815a9497813fe634fd7b1d003">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6241b2e9b52e6a0d3b3d5b0c3655ae4e40751d0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_366dfa304515ce516745d0a530b7e866840d46a8/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.1_2b505410b590b94f94c2ebbb95b96535191a7910/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_ad461868dfc429bf977d58aed7dc10961f6b23f2/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_e335f429441e9f4ca11b102ed3cbc46ac9cd2bc2/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_22c1fe1c3ab97c057f8a04e26c1fb5cbe0dcda29/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_8cc05417afea5c7e0104a28891bab99412a7a42b/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.github.frankiesardo/linearlistview/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d52b800eb529f69bd5c807142349fe0967df8c99">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.frankiesardo-linearlistview-1.0.1_563f15fea64c22d2b171c9c3145ddbb2b750a3c5/classes.dex" />
+    </item>
+    <item
+        jar="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/susanoo/Downloads/PopularMovie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_2559694d04f8ab5862a4818cd3903243c67dc6c3/classes.dex" />
+    </item>
+
+</items>
